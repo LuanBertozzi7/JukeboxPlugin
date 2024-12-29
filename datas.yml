@@ -1,0 +1,8 @@
+players:
+- volume: 70
+  playlist: PLAYLIST
+  repeat: false
+  id: 49893d64-ac47-351d-b7d1-84fb6b580033
+  join: false
+  shuffle: true
+  particles: true

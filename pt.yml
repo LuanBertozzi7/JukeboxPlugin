@@ -1,0 +1,43 @@
+NEXT_PAGE: §bPróxima Página
+LATER_PAGE: §bPágina Anterior
+CURRENT_PAGE: §3§oPage %d of %d
+PLAYER: §cVocê deve ser um player para usar este comando.
+RELOAD_MUSIC: §aMúsicas Recarregadas.
+INV_NAME: §d§lJukebox !
+TOGGLE_PLAYING: §6Pausar/Play
+VOLUME: '§9Volume da Música: §b'
+RIGHT_CLICK: '§eClique-Direito: diminuir 10%'
+LEFT_CLICK: '§eClique-Esquerdo: aumentar 10%'
+RANDOM_MUSIC: §3Tocar música aleatória
+STOP: §cParar Música
+MUSIC_STOPPED: §aMúsica parada.
+ENABLE: habilitar
+DISABLE: desabilitar
+ENABLED: habilitar
+DISABLED: desabilitar
+TOGGLE_SHUFFLE_MODE: '{ALTERNAR} modo aleatório'
+TOGGLE_LOOP_MODE: '{ALTERNAR} modo de loop'
+TOGGLE_CONNEXION_MUSIC: '{ALTERNAR} música ao conectar'
+TOGGLE_PARTICLES: '{TOGGLE} particulas'
+MUSIC_PLAYING: '§aMúsica enquanto joga:'
+INCORRECT_SYNTAX: §cSintax incorreta.
+RELOAD_LAUNCH: §aTentando recarregar.
+RELOAD_FINISH: §aRecarregamento finalizado.
+AVAILABLE_COMMANDS: '§aComandos disponiveís:'
+INVALID_NUMBER: §cNúmero Inválido.
+PLAYER_MUSIC_STOPPED: '§aMúsica parada por player: §b'
+IN_PLAYLIST: §9§oPlaylist
+PLAYLIST_ITEM: §dPlaylists
+OPTIONS_ITEM: §bOpções
+MENU_ITEM: §6Retornar ao Menu
+CLEAR_PLAYLIST: §cLimpar a playlist atual
+NEXT_ITEM: §ePróxima Música
+CHANGE_PLAYLIST: '§6§lTrocar playlist: §r'
+CHANGE_PLAYLIST_LORE: |-
+  §eClique com o botão do meio em um disco de música
+  §e para adicionar/remover a música
+PLAYLIST: §5Playlist
+FAVORITES: §4Favoritos
+RADIO: §3Rádio
+UNAVAILABLE_RADIO: §cTsua ação não está disponível enquanto ouve rádio.
+NONE: §cnada...
